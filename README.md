@@ -1,4 +1,4 @@
-# docker 
+# nodejs v6 + npm + gulp + bower docker  image
 base image for development environment with specific version of nodejs v6, bower, gulp and npm.
 
 ----
